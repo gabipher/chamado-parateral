@@ -1,2 +1,2 @@
-# chamado-parateral
+# Chamado Parateral
 One RPG.
